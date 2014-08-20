@@ -1,0 +1,13 @@
+jar: LiteSoftDeferred
+
+
+resources: 
+- $source$
+- src|**.xml
+- LICENSE
+
+dependencies:
+- ../LiteSoftCommonFoundation
+
+compileclasspath:
+- libs|**.jar
