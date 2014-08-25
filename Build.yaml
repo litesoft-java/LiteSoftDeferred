@@ -6,7 +6,7 @@ resources:
 - src|**.xml
 - LICENSE
 
-dependencies:
+compiledependencies:
 - ../LiteSoftCommonFoundation
 
 compileclasspath:
